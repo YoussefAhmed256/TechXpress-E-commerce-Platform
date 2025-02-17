@@ -1,1 +1,1 @@
-# Depi_Final_Project
+Electronic Ecomerce Platform 
