@@ -1,0 +1,27 @@
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb

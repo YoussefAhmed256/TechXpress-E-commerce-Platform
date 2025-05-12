@@ -1,0 +1,24 @@
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\ziad\Downloads\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\Ahmed\Desktop\ASP.NET-Core-MVC-NET-8-main (2)\ASP.NET-Core-MVC-NET-8-main\ASP.NET-Core-MVC-NET-8-main\Bulky\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
